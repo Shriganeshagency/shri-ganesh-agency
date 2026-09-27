@@ -1,10 +1,15 @@
-SHRI GANESH AGENCY WEBSITE
+SHRI GANESH AGENCY - PREMIUM WEBSITE
+
 Files:
 - index.html
 - style.css
 - script.js
+- assets/shri-g-fire-logo.jpg
 
-Upload all three files to the public_html folder of www.shriganeshagency.com.
-The site is responsive for mobile, tablet and desktop.
+GitHub Pages:
+Source: main branch / root
+Custom domain: www.shriganeshagency.com
 
-Before publishing, replace the text logo mark "SG" with the official SHRI GANESH AGENCY / SHRI-G FIRE logo if desired.
+The supplied SHRI-G FIRE logo is used in the website header, hero brand card, About section, favicon and footer.
+
+Upload/replace all files and the assets folder in the GitHub repository, then commit the changes.
