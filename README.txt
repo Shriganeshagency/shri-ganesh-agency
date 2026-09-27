@@ -4,12 +4,14 @@ Files:
 - index.html
 - style.css
 - script.js
-- assets/shri-g-fire-logo.jpg
+- shri-g-fire-logo.jpg
 
-GitHub Pages:
-Source: main branch / root
-Custom domain: www.shriganeshagency.com
+UPLOAD ALL 4 FILES TO THE ROOT OF YOUR GITHUB REPOSITORY:
+ShriGaneshagency/shri-ganesh-agency
 
-The supplied SHRI-G FIRE logo is used in the website header, hero brand card, About section, favicon and footer.
+The website is already designed for:
+www.shriganeshagency.com
 
-Upload/replace all files and the assets folder in the GitHub repository, then commit the changes.
+IMPORTANT:
+Keep shri-g-fire-logo.jpg in the same folder as index.html.
+GitHub Pages will publish the updated site after the commit/deployment.
