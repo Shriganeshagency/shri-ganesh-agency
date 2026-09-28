@@ -1,16 +1,17 @@
-SHRI GANESH AGENCY WEBSITE - PETROLEUM PRODUCTS UPDATE
+SHRI GANESH AGENCY - PREMIUM WEBSITE
 
-This ZIP contains the updated static website with:
-- SHRI-G FIRE logo
-- Petroleum Accessories product section with uploaded product images
-- Petroleum Uniforms section within the product grid
-- Direct Sales / WhatsApp enquiry number: 7972224398
-- Individual WhatsApp enquiry buttons for products
+Files:
+- index.html
+- style.css
+- script.js
+- shri-g-fire-logo.jpg
 
-GitHub Pages:
-1. Upload/replace the files in your repository.
-2. Keep index.html at the repository root (or the selected Pages folder).
-3. GitHub Pages will publish the updated site after deployment.
+UPLOAD ALL 4 FILES TO THE ROOT OF YOUR GITHUB REPOSITORY:
+ShriGaneshagency/shri-ganesh-agency
 
-Important:
-The petroleum product photos are reference images supplied for the website. Confirm availability, specifications, branding, sizes and pricing before purchase.
+The website is already designed for:
+www.shriganeshagency.com
+
+IMPORTANT:
+Keep shri-g-fire-logo.jpg in the same folder as index.html.
+GitHub Pages will publish the updated site after the commit/deployment.
